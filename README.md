@@ -9,7 +9,7 @@ Currently a Sophomore/Junior who loves coding specially with Java and Python. It
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [github](http://github.com/NimaJafariComp)
 * ✉️  You can contact me at [mohammadnimajafari@yahoo.com](mailto:mohammadnimajafari@yahoo.com)
-* 🚀  I'm currently working on [publishing my research papers && graph data structure project](http://soon)
+* 🚀  I'm currently working on [publishing my research papers & projects](http://soon)
 * 🧠  I'm learning - Discrete structures - Computer organization - Machine learning - Statistics - Linear algebra - Advanced data structures - Tensorflow - NumPy
 * 🤝  I'm open to collaborating on I'm open to collaboration and always on the lookout for exciting projects. My passion lies in coding with Java, Python, C, C++, and exploring AI.
 * ⚡  My study secret weapon? Blasting music so loud that even my textbooks start dancing.
