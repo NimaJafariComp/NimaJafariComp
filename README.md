@@ -43,4 +43,6 @@ src="https://img.shields.io/github/followers/NimaJafariComp?logo=github&style=fo
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/NimaJafariComp/weather-forecasting-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=SDC-DiscordBot&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 <div width="100%" align="center"><a href="https://github.com/NimaJafariComp/SDC-DiscordBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=SDC-DiscordBot&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
