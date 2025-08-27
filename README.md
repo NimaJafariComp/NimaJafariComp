@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Nima Jafari
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Nima Jafari
+
 
 🚀 **Full-Stack Developer | Data Science Enthusiast**  
 💡 Turning ideas into code feels like having a superpower, especially when it comes to AI & machine learning. I love solving problems with math, automating tasks, building intelligent systems, and exploring creative adventures in web/app development. 🌟
