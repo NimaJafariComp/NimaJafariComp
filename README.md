@@ -10,7 +10,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 - 🌍 Based in **Los Angeles**
 - 🖥️ Check out my portfolio: [github.com/NimaJafariComp](https://github.com/NimaJafariComp)
 - ✉️ Reach me at: [mohammadnimajafari@yahoo.com](mailto:mohammadnimajafari@yahoo.com)
-- 📚 Currently working on **publishing research papers, working on apps with my friend, graduation and applying to intenrships & fulltime positions**
+- 📚 Currently working on **publishing research papers, working on apps with my organization, graduation and applying to intenrships & fulltime positions**
 - 🧠 Always learning: **AI, backend systems, and everything I can get my hands on**
 - 🤝 Open to collaboration in **Python, Java, C/C++, ML/AI projects**
 - ⚡ Fun fact: My study hack = blasting music so loud even my textbooks start dancing 🎶
