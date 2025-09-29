@@ -12,7 +12,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 - ✉️ Reach me at: [mohammadnimajafari@yahoo.com](mailto:mohammadnimajafari@yahoo.com)
 - 📚 Currently working on **publishing research papers, working on apps with my organization, graduation and applying to PhD programs & intern positions**
 - 🧠 Always learning: **AI, backend systems, and everything I can get my hands on**
-- 🤝 Open to collaboration in **Python, Java, C/C++, ML/AI projects**
+- 🤝 Open to collaboration in **any full-stack, ML/AI projects**
 - ⚡ Fun fact: My study hack = blasting music so loud even my textbooks start dancing 🎶
 
 ---
