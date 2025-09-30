@@ -96,15 +96,24 @@
   </a>
 </p>
 
+
 <p>
   <a href="https://github.com/ZafriAI/CycleKindAI">
     <img alt="CycleKindAI" src="https://github-readme-stats.vercel.app/api/pin/?username=ZafriAI&repo=CycleKindAI&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
   </a>
 </p>
 
+
+
 <p>
   <a href="https://github.com/NimaJafariComp/weather-forecasting-project">
     <img alt="weather-forecasting-project" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=weather-forecasting-project&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/NimaJafariComp/StonksMachine">
+    <img alt="StonksMachine" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=StonksMachine&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
   </a>
 </p>
 
