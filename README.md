@@ -51,26 +51,18 @@
   <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"/></a>
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonwebservices-colored.svg" width="36" height="36"/></a>
+  <a href="https://aws.amazon.com/" target="_blank">
   <a href="https://azure.microsoft.com/" target="_blank"><img alt="Azure" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img alt="Google Cloud" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36"/></a>
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg" width="36" height="36"/></a>
+  <a href="https://jupyter.org/" target="_blank">
+  <img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36"/>
+</a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <a href="https://github.com/NimaJafariComp">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NimaJafariComp&show_icons=true&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/NimaJafariComp">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=NimaJafariComp&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
-  </a>
-</p>
 <p>
   <a href="https://github.com/NimaJafariComp">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaJafariComp&langs_count=10&layout=compact&title_color=ef4444&text_color=000000&bg_color=ffffff&hide_border=true" />
@@ -97,21 +89,25 @@
 ---
 
 ### 📌 Featured Projects
-<p>
-  <a href="https://github.com/NimaJafariComp/weather-forecasting-project">
-    <img alt="weather-forecasting-project" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=weather-forecasting-project&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/ZafriAI/CycleKindAI">
-    <img alt="CycleKindAI" src="https://github-readme-stats.vercel.app/api/pin/?username=ZafriAI&repo=CycleKindAI&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
-  </a>
-</p>
+
 <p>
   <a href="https://github.com/NimaJafariComp/JobApplyX">
     <img alt="JobApplyX" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=JobApplyX&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
   </a>
 </p>
+
+<p>
+  <a href="https://github.com/ZafriAI/CycleKindAI">
+    <img alt="CycleKindAI" src="https://github-readme-stats.vercel.app/api/pin/?username=ZafriAI&repo=CycleKindAI&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/NimaJafariComp/weather-forecasting-project">
+    <img alt="weather-forecasting-project" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=weather-forecasting-project&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
+  </a>
+</p>
+
 
 ---
 
