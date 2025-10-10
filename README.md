@@ -91,6 +91,12 @@
 ### 📌 Featured Projects
 
 <p>
+  <a href="https://github.com/NimaJafariComp/Strategy-Mining-in-Custom-RL-Environments-Dual-Path-Discovery-and-Robust-Graph-Clustering">
+    <img alt="Strategy-Mining-in-Custom-RL-Environments-Dual-Path-Discovery-and-Robust-Graph-Clustering" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=Strategy-Mining-in-Custom-RL-Environments-Dual-Path-Discovery-and-Robust-Graph-Clustering&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/NimaJafariComp/JobApplyX">
     <img alt="JobApplyX" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaJafariComp&repo=JobApplyX&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
   </a>
