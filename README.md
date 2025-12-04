@@ -98,7 +98,7 @@ I enjoy building intelligent systems—from theoretical RL research to productio
     <img src="https://github-readme-stats-sigma-two-26.vercel.app/api/pin/?username=NimaJafariComp&repo=Strategy-Mining-in-Custom-RL-Environments-Dual-Path-Discovery-and-Robust-Graph-Clustering&title_color=ef4444&text_color=111827&icon_color=6366f1&bg_color=ffffff&hide_border=true" height="150" />
   </a>
   <a href="https://github.com/ZafriAI/CycleKindAI">
-    <img src="https://github-readme-stats-sigma-two-26.vercel.app/api/pin/?username=ZafriAI&repo=CycleKindAI&title_color=ef4444&text_color=111827&icon_color=6366f1&bg_color=ffffff&hide_border=true" height="150" />
+    <img src="https://github-readme-stats-sigma-two-26.vercel.app/api/pin/?username=NimaJafariComp&repo=CycleKindAI&title_color=ef4444&text_color=111827&icon_color=6366f1&bg_color=ffffff&hide_border=true" height="150" />
   </a>
 </p>
 
