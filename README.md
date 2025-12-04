@@ -63,7 +63,7 @@ I'm especially interested in how intelligent systems learn, reason, and coordina
 
 ---
 
-## 🧱 3D Contributions (Animated)
+## 🧱 Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/NimaJafariComp/NimaJafariComp/main/profile-3d-contrib/profile-night-rainbow.svg" height="270" />
 </p>
