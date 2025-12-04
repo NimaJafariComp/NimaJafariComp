@@ -16,12 +16,7 @@
 ## 🚀 About Me
 
 I'm a builder & researcher focused on **AI systems, reinforcement learning, multi-agent dynamics, and full-stack engineering**.  
-My work spans **theoretical ML** → **production deployment**, whether it's:
-
-- 🧠 Deriving new RL clustering / strategy-mining techniques  
-- 🤖 Experimenting with multi-agent debate, negotiation & game theory  
-- 🧬 Exploring robust & compositional ML  
-- 🛠 Deploying ML-powered full-stack applications at scale  
+My work spans **theoretical ML** → **production deployment**.
 
 📍 United States  
 📬 **Email:** mohammadnimajafari@yahoo.com  
