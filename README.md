@@ -109,6 +109,11 @@
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/CL-490/CareerLift">
+    <img alt="CareerLift" src="https://github-readme-stats.vercel.app/api/pin/?username=CL-490&repo=CareerLift&title_color=ef4444&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true" />
+  </a>
+</p>
 
 
 <p>
