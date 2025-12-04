@@ -13,7 +13,7 @@
 <!-- Gradient Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🚀 About Me
+## About Me
 
 I'm a builder & researcher focused on **AI systems, reinforcement learning, multi-agent dynamics, and full-stack engineering**.  
 My work spans **theoretical ML** → **production deployment**.
@@ -25,7 +25,7 @@ My work spans **theoretical ML** → **production deployment**.
 
 ---
 
-## 🧬 Research & Engineering Interests
+## Research & Engineering Interests
 
 My work sits at the intersection of **machine learning theory**, **multi-agent systems**, and **practical full-stack AI engineering**.  
 I'm especially interested in how intelligent systems learn, reason, and coordinate under uncertainty.
@@ -58,7 +58,7 @@ I'm especially interested in how intelligent systems learn, reason, and coordina
 
 ---
 
-## 🧱 Contributions
+## Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/NimaJafariComp/NimaJafariComp/main/profile-3d-contrib/profile-night-rainbow.svg" height="270" />
 </p>
@@ -75,7 +75,7 @@ I'm especially interested in how intelligent systems learn, reason, and coordina
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-## ⭐ Featured Projects
+## Featured Projects
 
 <div align="center">
 
