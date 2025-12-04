@@ -65,7 +65,7 @@ I'm especially interested in how intelligent systems learn, reason, and coordina
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,redux,html,css,nodejs,postgres,mysql,mongodb,aws,gcp,azure,docker,git,jupyter,linux&theme=light" />
