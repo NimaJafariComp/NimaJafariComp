@@ -31,8 +31,12 @@ jobs:
             # Retry up to 3 times in case of race conditions
             success=false
             for i in {1..3}; do
-              if git pull --rebase origin main; then
-                if git push; then
+              # Fetch latest changes before attempting rebase
+              echo "Fetching latest changes (attempt $i/3)..."
+              git fetch origin main
+
+              if git rebase origin/main; then
+                if git push origin main; then
                   echo "Successfully pushed changes"
                   success=true
                   break
@@ -47,7 +51,7 @@ jobs:
                   echo "Cannot auto-resolve conflicts in generated files"
                   exit 1
                 else
-                  echo "Pull/rebase failed (attempt $i/3)"
+                  echo "Rebase failed (attempt $i/3)"
                 fi
               fi
 
