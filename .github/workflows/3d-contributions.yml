@@ -29,10 +29,12 @@ jobs:
           if git commit -m "generated"; then
             # Pull with rebase to integrate remote changes, then push
             # Retry up to 3 times in case of race conditions
+            success=false
             for i in {1..3}; do
               if git pull --rebase origin main; then
                 if git push; then
                   echo "Successfully pushed changes"
+                  success=true
                   break
                 else
                   echo "Push failed (attempt $i/3)"
@@ -49,12 +51,14 @@ jobs:
                 fi
               fi
 
-              if [ $i -lt 3 ]; then
+              if [ "$success" = false ] && [ $i -lt 3 ]; then
                 echo "Retrying in 5 seconds..."
                 sleep 5
-              else
-                echo "Failed to push after 3 attempts"
-                exit 1
               fi
             done
+
+            if [ "$success" = false ]; then
+              echo "Failed to push after 3 attempts"
+              exit 1
+            fi
           fi
