@@ -30,14 +30,31 @@ jobs:
             # Pull with rebase to integrate remote changes, then push
             # Retry up to 3 times in case of race conditions
             for i in {1..3}; do
-              git pull --rebase origin main && git push && break || {
-                if [ $i -lt 3 ]; then
-                  echo "Push failed, retrying in 5 seconds... (attempt $i/3)"
-                  sleep 5
+              if git pull --rebase origin main; then
+                if git push; then
+                  echo "Successfully pushed changes"
+                  break
                 else
-                  echo "Failed to push after 3 attempts"
-                  exit 1
+                  echo "Push failed (attempt $i/3)"
                 fi
-              }
+              else
+                # Check for rebase conflicts
+                if git status | grep -q "rebase in progress"; then
+                  echo "Rebase conflict detected, aborting rebase"
+                  git rebase --abort
+                  echo "Cannot auto-resolve conflicts in generated files"
+                  exit 1
+                else
+                  echo "Pull/rebase failed (attempt $i/3)"
+                fi
+              fi
+
+              if [ $i -lt 3 ]; then
+                echo "Retrying in 5 seconds..."
+                sleep 5
+              else
+                echo "Failed to push after 3 attempts"
+                exit 1
+              fi
             done
           fi
