@@ -91,6 +91,9 @@ I'm especially interested in building systems that are grounded, reliable, and u
   <a href="https://github.com/NimaJafariComp/weather-forecasting-project">
     <img src="https://github-readme-stats-sigma-two-26.vercel.app/api/pin/?username=NimaJafariComp&repo=weather-forecasting-project&title_color=ef4444&text_color=111827&icon_color=6366f1&bg_color=ffffff&hide_border=true" height="150" />
   </a>
+  <a href="https://github.com/NimaJafariComp/PocketPilot">
+    <img src="https://github-readme-stats-sigma-two-26.vercel.app/api/pin/?username=NimaJafariComp&repo=PocketPilot&title_color=ef4444&text_color=111827&icon_color=6366f1&bg_color=ffffff&hide_border=true" height="150" />
+  </a>
 </p>
 
 <p align="center">
