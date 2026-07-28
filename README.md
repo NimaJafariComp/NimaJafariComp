@@ -18,17 +18,13 @@
 
 ## `>_` SYSTEM PROFILE
 
-<img align="right" width="145" src="https://github.com/NimaJafariComp.png?size=160" alt="Nima Jafari" />
-
 I build practical, intelligent software at the intersection of **full-stack engineering** and **applied machine learning**. My work moves from APIs, databases, and interfaces to retrieval-augmented systems, computer vision, and reinforcement-learning research—with an emphasis on systems that are useful, clear, and dependable.
 
 ```text
 NOW_EXPLORING  →  RAG · retrieval · ranking · agentic workflows
-BUILDING       →  React · React Native · Python · APIs · data products
+BUILDING       →  React · React Native · Swift / iOS · Python · APIs · data products
 RESEARCHING    →  reinforcement learning · vision · evaluation
 ```
-
-<br clear="right" />
 
 ## `>_` SELECTED BUILDS
 
@@ -66,11 +62,11 @@ RESEARCHING    →  reinforcement learning · vision · evaluation
 ## `>_` TECHNOLOGY DECK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,redux,html,css,nodejs,postgres,mysql,mongodb,aws,azure,docker,git,jupyter,linux,figma,ruby,rust&theme=dark&perline=11" alt="Python, Java, C++, JavaScript, TypeScript, React, Redux, HTML, CSS, Node.js, PostgreSQL, MySQL, MongoDB, AWS, Azure, Docker, Git, Jupyter, Linux, Figma, Ruby, and Rust" />
+  <img src="https://skillicons.dev/icons?i=python,swift,java,cpp,js,ts,react,redux,html,css,nodejs,postgres,mysql,mongodb,aws,azure,docker,git,jupyter,linux,figma,ruby,rust&theme=dark&perline=11" alt="Python, Swift, Java, C++, JavaScript, TypeScript, React, Redux, HTML, CSS, Node.js, PostgreSQL, MySQL, MongoDB, AWS, Azure, Docker, Git, Jupyter, Linux, Figma, Ruby, and Rust" />
 </p>
 
 <p align="center">
-  <code>React Native</code> · <code>Next.js</code> · <code>FastAPI</code> · <code>PyTorch</code> · <code>TensorFlow</code> · <code>Qdrant</code> · <code>Playwright</code>
+  <code>iOS Development</code> · <code>Swift</code> · <code>React Native</code> · <code>Next.js</code> · <code>FastAPI</code> · <code>PyTorch</code> · <code>TensorFlow</code> · <code>Qdrant</code> · <code>Playwright</code>
 </p>
 
 ## `>_` CONTRIBUTION SIGNAL
