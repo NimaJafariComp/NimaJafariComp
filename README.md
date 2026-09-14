@@ -31,26 +31,26 @@ RESEARCHING    →  reinforcement learning · vision · evaluation
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NimaJafariComp/Strategy-Mining-in-Custom-RL-Environments-Dual-Path-Discovery-and-Robust-Graph-Clustering">Strategy Mining in Custom RL Environments</a></h3>
-      <p>Research code and data for discovering concepts from reinforcement-learning trajectories.</p>
-      <code>REINFORCEMENT LEARNING</code> <code>RESEARCH</code>
+      <h3><a href="https://github.com/NimaJafariComp/ReelMeListing">ReelMeListing</a></h3>
+      <p>A browser-based AI media pipeline that turns property photos into reviewed, cinematic listing reels.</p>
+      <code>FULL STACK</code> <code>COMPUTER VISION</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NimaJafariComp/PocketPilot">PocketPilot</a></h3>
-      <p>A personal finance management application designed for clarity and control.</p>
-      <code>FULL STACK</code> <code>FINTECH</code>
+      <h3><a href="https://github.com/NimaJafariComp/MacIsland">MacIsland</a></h3>
+      <p>A native macOS productivity experience built to bring a dynamic island-style workspace to the desktop.</p>
+      <code>MACOS</code> <code>SWIFT</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NimaJafariComp/JobApplyX">JobApplyX</a></h3>
-      <p>A machine-learning-powered job-application project.</p>
-      <code>MACHINE LEARNING</code> <code>AUTOMATION</code>
+      <h3><a href="https://github.com/NimaJafariComp/PocketPilot">PocketPilot</a></h3>
+      <p>A full-stack personal finance platform with web, mobile, backend, shared packages, and AI-powered services.</p>
+      <code>FULL STACK</code> <code>WEB + MOBILE</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NimaJafariComp/CycleKindAI">CycleKindAI</a></h3>
-      <p>AI menstrual-health support, created with women in tech.</p>
-      <code>AI PRODUCT</code> <code>HEALTH TECH</code>
+      <h3><a href="https://github.com/NimaJafariComp/CareerLift">CareerLift</a></h3>
+      <p>An AI career platform spanning a FastAPI backend, Next.js frontend, graph database, desktop app, and mobile builds.</p>
+      <code>FULL STACK</code> <code>AI PRODUCT</code>
     </td>
   </tr>
 </table>
