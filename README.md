@@ -18,7 +18,7 @@
 
 ## `>_` SYSTEM PROFILE
 
-I build practical, intelligent software at the intersection of **full-stack engineering** and **applied machine learning**. My work moves from APIs, databases, and interfaces to retrieval-augmented systems, computer vision, and reinforcement-learning research—with an emphasis on systems that are useful, clear, and dependable.
+I build practical, intelligent software at the intersection of **full-stack engineering** and **applied machine learning**. My work moves from APIs, databases, and interfaces to retrieval-augmented systems, computer vision, and reinforcement-learning research with an emphasis on systems that are useful, clear, and dependable.
 
 ```text
 NOW_EXPLORING  →  RAG · retrieval · ranking · agentic workflows
