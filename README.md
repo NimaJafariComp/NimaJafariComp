@@ -18,10 +18,11 @@
 
 ## `>_` SYSTEM PROFILE
 
+Currently battling the foundation of neural networks to make learning cheaper, faster, and more reliable.
 I build practical, intelligent software at the intersection of **full-stack engineering** and **applied machine learning**. My work moves from APIs, databases, and interfaces to retrieval-augmented systems, computer vision, and reinforcement-learning research with an emphasis on systems that are useful, clear, and dependable.
 
 ```text
-NOW_EXPLORING  →  RAG · retrieval · ranking · agentic workflows
+NOW_EXPLORING  →  RAG · retrieval · ranking · agentic workflows · Ai cognition
 BUILDING       →  React · React Native · Swift / iOS · Python · APIs · data products
 RESEARCHING    →  reinforcement learning · vision · evaluation
 ```
