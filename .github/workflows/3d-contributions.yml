@@ -28,20 +28,23 @@ jobs:
           git add -A .
           if git commit -m "generated"; then
             # Pull with rebase to integrate remote changes, then push
-            # Retry up to 3 times in case of race conditions
+            # Retry in case of race conditions or transient remote errors
             success=false
-            for i in {1..3}; do
+            max_attempts=6
+            sleep_seconds=10
+            for ((i=1; i<=max_attempts; i++)); do
               # Fetch latest changes before attempting rebase
-              echo "Fetching latest changes (attempt $i/3)..."
+              echo "Fetching latest changes (attempt $i/$max_attempts)..."
               git fetch origin main
 
               if git rebase origin/main; then
-                if git push origin main; then
+                if push_output=$(git push origin main 2>&1); then
                   echo "Successfully pushed changes"
                   success=true
                   break
                 else
-                  echo "Push failed (attempt $i/3)"
+                  echo "$push_output"
+                  echo "Push failed (attempt $i/$max_attempts)"
                 fi
               else
                 # Check for rebase conflicts
@@ -51,18 +54,19 @@ jobs:
                   echo "Cannot auto-resolve conflicts in generated files"
                   exit 1
                 else
-                  echo "Rebase failed (attempt $i/3)"
+                  echo "Rebase failed (attempt $i/$max_attempts)"
                 fi
               fi
 
-              if [ "$success" = false ] && [ $i -lt 3 ]; then
-                echo "Retrying in 5 seconds..."
-                sleep 5
+              if [ "$success" = false ] && [ $i -lt $max_attempts ]; then
+                echo "Retrying in $sleep_seconds seconds..."
+                sleep "$sleep_seconds"
+                sleep_seconds=$((sleep_seconds * 2))
               fi
             done
 
             if [ "$success" = false ]; then
-              echo "Failed to push after 3 attempts"
+              echo "Failed to push after $max_attempts attempts"
               exit 1
             fi
           fi
